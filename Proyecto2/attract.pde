@@ -1,0 +1,2 @@
+void attract(x,y){
+}
